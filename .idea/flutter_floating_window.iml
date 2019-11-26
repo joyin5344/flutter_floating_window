@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <WolframLanguageLevel version="12.0" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/flutter_floating_demo/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_floating_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_floating_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_floating_window/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_floating_window/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_floating_window/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
